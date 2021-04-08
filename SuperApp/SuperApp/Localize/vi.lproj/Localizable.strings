@@ -1,0 +1,518 @@
+// MARK: HOME
+"home_discover" = "Khám phá";
+"home_project" = "dự án";
+"home_project_list" = "Danh sách dự án";
+"home_recommend_house" = "Sản phẩm nổi bật";
+
+// MARK: MAP
+"map_search" = "Tìm kiếm";
+
+// MARK: SEARCH
+"search_isSell" = "Đang bán";
+"search_isSellSoon" = "Sắp bán";
+"filter_filter" = "Bộ lọc tìm kiếm";
+"filter_description" = "Hãy tìm kiếm những căn hộ và nhà ở phù hợp với nhu cầu của bạn";
+"filter_status" = "Tình trạng";
+"filter_project" = "Dự án";
+"filter_city" = "Tỉnh/ Thành phố";
+"filter_district" = "Quận/ Huyện";
+"filter_city_search" = "Tìm tỉnh/ thành phố";
+"filter_district_search" = "Tìm quận/ huyện";
+"filter_search" = "Tìm kiếm";
+"filter_result" = "Kết quả lọc";
+
+// MARK: NAVIGATION BAR
+"navigation_closeSearch" = "Tắt";
+"navigation_search_project" = "Tìm kiếm dự án";
+"navigation_search_response" = "Tìm kiếm phản hồi";
+
+// MARK: PROJECT DETAIL HOME
+"projectDetailHome_Project" = "Dự án";
+"projectDetailHome_Home" = "Trang chủ";
+"projectDetailHome_Info" = "Giới thiệu";
+"projectDetailHome_Plan" = "Mặt bằng";
+"projectDetailHome_Map" = "Vị trí";
+"projectDetailHome_Ulities" = "Tiện ích";
+"projectDetailHome_Sale" = "Bán hàng";
+"projectDetailHome_Library" = "Thư viện";
+"projectDetailHome_News" = "Tin tức";
+"projectDetailHome_Contact" = "Liên hệ";
+"projectDetailHome_regist_join" = "Đăng ký tham quan";
+"projectDetailHome_RegisterToJoin" = "Đăng ký tham quan dự án";
+"projectDetailHome_LeaveInfo" = "Quý khách vui lòng để lại thông tin, chúng tôi sẽ liên hệ ngay";
+"projectDetailHome_FullName" = "Họ tên";
+"projectDetailHome_input_FullName" = "nhập họ tên";
+"projectDetailHome_Phone" = "Điện thoại";
+"projectDetailHome_input_Phone" = "nhập số";
+"projectDetailHome_input_Email" = "nhập email";
+"projectDetailHome_Address" = "Địa chỉ";
+"projectDetailHome_input_Address" = "nhập địa chỉ";
+"projectDetailHome_regist_regist" = "Đăng ký";
+"projectDetailHome_ChatTitle" = "Nhân viên tư vấn";
+"projectDetailHome_Thank" = "Cảm ơn quý khách đã đăng ký tham quan dự án. Nhân viên của chúng tôi sẽ liên hệ với quý khách để sắp xếp lịch tham quan.";
+"projectDetailHome_BackToProject" = "Quay về dự án";
+"projectDetailHome_PleaseFill" = "Xin vui lòng nhập thông tin";
+"projectDetailHome_EmailWrong" = "Email không hợp lệ";
+
+// MARK: NOTIFICATION
+"notification_newest" = "Mới nhất";
+"notification_notify" = "Thông báo";
+"notification_clickToView" = "Bấm vào để xem thêm chi tiết";
+"notification_deleteNoti" = "Xóa thông báo này";
+"notification_offNoti" = "Tắt những thông báo liên quan đến mục này";
+
+// MARK: ACCOUNT
+"account_title" = "Tài khoản";
+"account_hello" = "Xin chào,";
+"account_information" = "Thông tin chung";
+"account_favorite_apartment" = "Sản phẩm yêu thích";
+"account_project_list" = "Dự án tham gia";
+"account_manage_payment" = "Thanh toán";
+"account_setting" = "Cài đặt";
+"account_logout" = "Đăng xuất";
+"account_inout" = "Đăng nhập | Đăng ký";
+"account_response" = "Phản hồi";
+"account_manage_tk" = "QUẢN LÝ TÀI KHOẢN";
+"account_function" = "TÍNH NĂNG";
+
+// MARK: INFO
+"info_editing" = "Chỉnh sửa";
+"info_pass" = "Mật khẩu";
+"info_sheets" = "HỒ SƠ";
+"info_birth" = "Ngày sinh";
+"info_phone" = "Số điện thoại";
+"info_gender" = "Giới tính";
+"info_male" = "Nam";
+"info_female" = "Nữ";
+"info_other" = "Khác";
+"info_job" = "Nghề nghiệp";
+"info_avatar" = "Ảnh đại diện";
+"info_pickImage" = "Chọn ảnh";
+"info_takeImage" = "Chụp ảnh";
+"info_save" = "Lưu";
+"info_changePass" = "Đổi mật khẩu";
+"info_inputPassTwice" = "Vui lòng nhập mật khẩu mới 2 lần để đổi mật khẩu";
+"info_inputPassNew" = "Nhập mật khẩu mới";
+"info_inputPassNewRe" = "Nhập lại mật khẩu mới";
+"info_wrong" = "Mật khẩu mới không khớp nhau";
+"info_success" = "THAY ĐỔI MẬT KHẨU THÀNH CÔNG";
+"info_successSmall" = "Bạn đã vừa thành công thay đổi mật khẩu";
+"info_holderName" = "Nhập họ tên";
+"info_holderBirth" = "Chọn ngày";
+"info_holderAddress" = "Nhập địa chỉ";
+"info_holderPhone" = "Nhập số điện thoại";
+"info_holderJob" = "Nhập nghề nghiệp";
+"info_no" = "Không";
+"info_saveTitle" = "LƯU THÔNG TIN MỚI THAY ĐỔI";
+"info_saveConfirmText" = "Bạn có muốn lưu những thông tin bạn vừa thay đổi không?";
+
+// MARK: PROJECT GROUND PLAN
+"project_ground_plan_saling" = "Đang bán";
+"project_ground_plan_saled" = "Đã bán";
+"project_ground_plan_sale_pending" = "Đặt chỗ";
+"project_ground_plan_popup_cancel" = "Huỷ";
+"project_ground_plan_popup_preview" = "Xem phối cảnh";
+"project_ground_plan_popup_done" = "Xong";
+"project_ground_plan_status" = "Tình trạng:";
+"project_ground_plan_main_inform" = "Thông tin chính :";
+"project_ground_plan_expect_sale_price" = "Giá bán dự kiến";
+"project_ground_plan_total_area" = "Tổng diện tích";
+"project_ground_plan_using_area" = "Diện tích sử dụng";
+"project_ground_plan_inform_detail" = "Thông tin chi tiết :";
+"project_ground_plan_living_room" = "Phòng khách";
+"project_ground_plan_bedroom1" = "Phòng ngủ 1";
+"project_ground_plan_bedroom2" = "Phòng ngủ 2";
+"project_ground_plan_rest_room" = "Phòng vệ sinh (1, 2)";
+"project_ground_plan_balcony" = "Ban công";
+"project_ground_plan_direction_house" = "Hướng nhà";
+"project_ground_plan_total_money" = "Tổng tiền dự kiến";
+"project_ground_plan_budget_estimates" = "Dự toán ngân sách";
+
+// MARK: LIST DATA CUSTOM
+"list_highlight_project" = "Các dự án nổi bật";
+
+// MARK: PROJECT CONTACT
+"project_contact_developer" = "NHÀ PHÁT TRIỂN DỰ ÁN";
+"project_contact_address" = "ĐỊA CHỈ DỰ ÁN";
+"project_contact_hotline" = "HOTLINE";
+"project_contact_fax" = "FAX";
+"project_contact_trading_floor" = "SÀN GIAO DỊCH DỰ ÁN";
+
+// MARK: NEWS
+"news_newsPost" = "Bài mới nhất";
+"news_oldPost" = "Bài cũ nhất";
+"news_title" = "Tin tức";
+
+// MARK: SALE POLICY
+"sale_policy_pickup_progress" = "Chọn tiến độ thanh toán";
+"sale_policy_total_coin" = "Tổng số tiền (vnd)";
+"sale_policy_progress_pay" = "Tiến độ thanh toán";
+"sale_policy_default" = "mặc định";
+"sale_policy_deposit_coin" = "Tổng tiền thanh toán:";
+"sale_policy_payment" = "Thanh toán";
+"sale_policy_detail_process" = "Tiến độ:";
+"sale_policy_detail_paid_money" = "Tiền đã thanh toán:";
+"sale_policy_detail_paid_notice" = "Ghi chú:";
+"sale_policy_planning" = "Chính sách";
+"sale_policy_cs_tieu_chuan" = "CS tiêu chuẩn";
+"result_cs_tieu_chuan" = "Chính sách tiêu chuẩn";
+"sale_policy_cs_chiet_khau" = "CS chiết khấu";
+"result_cs_chiet_khau" = "Chính sách chiết khấu";
+"sale_policy_contact_buy" = "Liên hệ mua";
+"sale_policy_planning_rent" = "Chính sách vay";
+"sale_policy_first_money" = "Tiền cọc :";
+"sale_policy_pay_percent" = "Được chiết khấu";
+"sale_policy_pay_discount" = "Số tiền chiết khấu:";
+"sale_policy_paydone" = "Thanh toán xong";
+"sale_policy_see_more" = "Xem thêm";
+"sale_policy_see_less" = "Thu gọn";
+"sale_policy_next" = "Tiếp theo";
+
+// MARK: sale_policy_step1
+"sale_policy_loan" = "Chính sách cho vay";
+"sale_policy_step_1" = "Bước 1:";
+"sale_policy_step_1_title" = "Chọn ngân hàng";
+"sale_policy_list_bank" = "DANH SÁCH NGÂN HÀNG";
+"sale_policy_info_product_buy" = "THÔNG TIN SẢN PHẦM VAY MUA";
+"sale_policy_interest" = "LÃI THẢ NỔI-DƯ NỢ GIẢM DẦN";
+"sale_policy_method_loan" = "PHƯƠNG THỨC VAY";
+"sale_policy_chose_loan" = "Chọn 1 trong những hình thức vay sau";
+"sale_policy_text" = "_ Lãi thả nổi là lãi suất được điều chỉnh theo từng thời kỳ, biến đổi theo thời gian.\n_ Lãi tính trên dư nợ giảm dần là lãi sẽ chỉ tính trên số tiền thực tế bạn còn nợ, sau khi đã trừ ra phần tiền gốc bạn đã trả trong các tháng trước đó.\nVí dụ, khi bạn vay 50,000,000đ, thời hạn 1 năm (12 tháng)\n\t* Tháng đầu tiên, lãi tính trên 50,000,000đ. Bạn trả bớt nợ gốc 5,000,000đ.\n\t* Tháng thứ hai, lãi chỉ tính trên 45,000,000đ. Bạn trả bớt nợ gốc thêm 5,000,000đ.\n\t* Tháng thứ 3, lãi chỉ tính trên 40,000,000đ… Các tháng tiếp theo lãi sẽ được tính tiếp tục tương tự theo cách thức này.";
+"sale_policy_info_header" = "Ưu tiên hỗ trợ mọi hình thức vay vốn";
+"sale_policy_info_text1" = "Lãi suất: 8%/năm";
+"sale_policy_info_text2" = "Ưu đãi: 6 tháng";
+"sale_policy_info_text3" = "Gói vay mua nhà đa dạng nhất thị trường";
+"sale_policy_info_text4" = "Thời hạn vay vốn lên tới 25 năm";
+"sale_policy_info_text5" = "Xác định hạn mức vay ngay khi chưa cần tài sản đảm bảo";
+"sale_policy_info_text6" = "Phê duyệt nhanh chóng.";
+"sale_policy_loan_text_image1" = "Vay\nthả nổi";
+"sale_policy_loan_text_image2" = "Vay\ntrả góp đều";
+"sale_policy_loan_text_image3" = "Vay dư nợ\nban đầu";
+
+// MARK: sale_policy_contact_buy
+"sale_policy_contact_buy_call" = "Gọi ngay:";
+"sale_policy_contact_buy_text" = "Bạn hãy nhập tên và số điện thoại, chúng tôi sẽ liên hệ lại ngay để trao đổi với bạn";
+"sale_policy_contact_buy_name" = "Họ tên (*) :";
+"sale_policy_contact_buy_input_name" = "nhập họ tên";
+"sale_policy_contact_buy_input_nameUpper" = "Nhập họ tên";
+"sale_policy_contact_buy_numberphone" = "Điện thoại (*) :";
+"sale_policy_contact_buy_input_number" = "nhập số";
+"sale_policy_contact_buy_regist" = "Đăng ký";
+"sale_policy_contact_finish" = "Cảm ơn bạn đã để lại thông tin cho chúng tôi. Nhân viên tư vấn sẽ liên lạc để cung cấp thêm thông tin cần thiết cho bạn. Xin cảm ơn";
+"sale_policy_contact_back" = "Quay về dự án";
+"sale_policy_contact_bigTitle" = "Đăng ký thông tin thành công";
+
+// MARK: sale_policy_step2
+"sale_policy_step2" = "Bước 2:";
+"sale_policy_step2_title" = "Bảng tính lãi suất vay ngân hàng";
+"sale_policy_step2_unitmoney" = "vnd";
+"sale_policy_step2_unityear" = "năm";
+"sale_policy_step2_ratioyear" = "%/năm";
+"sale_policy_step2_ratio" = "%";
+"sale_policy_step2_unitmonth" = "tháng";
+"sale_policy_step2_totalmoney" = "TỔNG SỐ TIỀN";
+"sale_policy_step2_loanmoney" = "SỐ TIỀN CẦN VAY";
+"sale_policy_step2_input_loanmoney" = "Nhập số tiền cần vay";
+"sale_policy_step2_loabdealine" = "THỜI HẠN VAY";
+"sale_policy_step2_inputnumberyear" = "Nhập số năm";
+"sale_policy_step2_init" = "LÃI SUẤT VAY";
+"sale_policy_step2_initloan" = "LÃI SUẤT VAY BAN ĐẦU";
+"sale_policy_step2_timepermanent" = "THỜI HẠN CỐ ĐỊNH LÃI SUẤT";
+"sale_policy_step2_inputmonth" = "Nhập số tháng";
+"sale_policy_step2_averageinterest" = "LÃI SUẤT TRUNG BÌNH SAU ƯU ĐÃI";
+"sale_policy_step2_paybeforematurity" = "Thanh toán trước hạn ?";
+"sale_policy_step2_seeresults" = "Xem kết quả";
+"sale_policy_step2_estimatedtimeofpayment" = "THỜI GIAN DỰ TÍNH THANH TOÁN";
+"sale_policy_step2_inputdate" = "Nhập thời gian";
+"sale_policy_step2_earlypaymentfee" = "PHÍ THANH TOÁN TRƯỚC HẠN";
+"sale_policy_step2_usually" = "Thông thường khoảng 3";
+"sale_policy_step2_year" = "năm";
+"sale_policy_step2_datepaymore" = "NGÀY TRẢ LÃI";
+"sale_policy_step2_datepaymoreFirst" = "NGÀY TRẢ LÃI ĐẦU";
+"sale_policy_step2_youNeedRefill" = "Bạn cần nhập đủ thông tin";
+"sale_policy_step2_requireMinRent" = "Chưa đạt hạng mức tối thiểu cho vay";
+
+// MARK: sale_policy_step3
+"sale_policy_step3" = "Bước 3:";
+"sale_policy_step3_title" = "Kết quả";
+"sale_policy_step3_button_contactBuy" = "Liên hệ mua";
+"sale_policy_step3_button_order" = "Đặt chỗ";
+"sale_policy_step3_button_rentOnline" = "Nộp hồ sơ vay online";
+"sale_policy_step3_resultCount" = "KẾT QUẢ TÍNH TOÁN";
+"sale_policy_step3_sumPay" = "Tổng tiền phải trả (vnd)";
+"sale_policy_step3_firstTimePay" = "SỐ TIỀN TRẢ KỲ ĐẦU (vnd)";
+"sale_policy_step3_saveMoneyPay" = "TIẾT KIỆM TRẢ NỢ TRƯỚC HẠN (vnd)";
+"sale_policy_step3_payEarlyCost" = "PHÍ PHẠT TRẢ NỢ TRƯỚC HẠN (vnd)";
+"sale_policy_step3_tableDetailPay" = "BẢNG KẾ HOẠCH CHI TRẢ CỤ THỂ CHO DỰ ÁN :";
+"sale_policy_step3_downloadFile" = "Tải file";
+"sale_policy_step3_summaryCash" = "Tổng số tiền";
+"sale_policy_step3_rentCash" = "Số tiền vay";
+"sale_policy_step3_sumMoreCash" = "Số tiền lãi";
+
+// MARK: LOAN ONLINE
+"loan_online_infoCommon" = "Thông tin chung";
+"loan_online_title" = "Hồ sơ vay online";
+"loan_online_tab_title_2" = "Công tác và thu nhập";
+"loan_online_tab_title_4" = "Tài sản và khoản đã vay";
+"loan_online_tab_title_6" = "Khoản vay đề nghị";
+"loan_online_tab_title_8" = "Hoàn thành hồ sơ";
+"loan_online_amountMoneyRent" = "Số tiền vay";
+"loan_online_amountMoneySum" = "Tổng số tiền:";
+"loan_online_amountMoneySumMore" = "Tổng tiền lãi:";
+"loan_online_next" = "Tiếp theo";
+"loan_online_cancel" = "Huỷ";
+"loan_online_result_success" = "Hồ sơ vay online thành công";
+"loan_online_accept" = "Đồng ý";
+"loan_online_title_cancel" = "HUỶ HỒ SƠ VAY ONLINE";
+"loan_online_saveInformation" = "Lưu thông tin";
+"loan_online_complete" = "Hoàn thành";
+"loan_online_1_customerInfo" = "THÔNG TIN\nKHÁCH HÀNG";
+"loan_online_1_name" = "HỌ VÀ TÊN";
+"loan_online_1_birth" = "NGÀY SINH";
+"loan_online_1_gender" = "GIỚI TÍNH";
+"loan_online_1_cmnd" = "CMND/HỘ CHIẾU";
+"loan_online_1_dateGive" = "NGÀY CẤP";
+"loan_online_1_placeGive" = "NƠI CẤP";
+"loan_online_1_phone" = "ĐIỆN THOẠI";
+"loan_online_1_edu" = "TRÌNH ĐỘ HỌC VẤN";
+"loan_online_1_marry" = "TÌNH TRẠNG HÔN NHÂN";
+"loan_online_1_haveHouse" = "TÌNH TRẠNG SỞ HỮU NHÀ Ở/BĐS";
+"loan_online_1_address" = "ĐỊA CHỈ";
+"loan_online_1_city" = "TỈNH/THÀNH PHỐ";
+"loan_online_1_district" = "QUẬN/HUYỆN";
+"loan_online_1_village" = "PHƯỜNG XÃ";
+"loan_online_2_title_1" = "THÔNG TIN\nNGHỀ NGHIỆP";
+"loan_online_2_title_2" = "THU NHẬP\nHIỆN CÓ";
+"loan_online_2_company_work" = "TÊN ĐƠN VỊ CÔNG TÁC";
+"loan_online_2_company_type" = "LOẠI HÌNH DOANH NGHIỆP";
+"loan_online_2_location_work" = "VỊ TRÍ CÔNG TÁC";
+"loan_online_2_sheet_work" = "HỢP ĐỒNG LAO ĐỘNG";
+"loan_online_2_time_work" = "THỜI GIAN LÀM VIỆC HIỆN TẠI";
+"loan_online_2_pay_way" = "HÌNH THỨC TRẢ LƯƠNG";
+"loan_online_2_real_salary" = "LƯƠNG THỰC LÃNH";
+"loan_online_2_other_income" = "THU NHẬP KHÁC";
+"loan_online_2_payment" = "CHI TIÊU";
+"loan_online_2_save_salary" = "THU NHẬP TÍCH LUỸ";
+"loan_online_2_detail_other_income" = "CHI TIẾT KHOẢN THU NHẬP KHÁC";
+"loan_online_2_add_more_income" = "Thêm nguồn thu nhập";
+"loan_online_2_remove_income" = "Bỏ nguồn thu nhập";
+"loan_online_2_detail_pay_source" = "CHI TIẾT KHOẢN CHI TIÊU";
+"loan_online_2_add_more_income_source" = "Thêm nguồn chi tiêu";
+"loan_online_2_remove_income_source" = "Bỏ nguồn chi tiêu";
+"loan_online_2_type_earn" = "LOẠI THU NHẬP";
+"loan_online_2_type_pay" = "LOẠI CHI TIÊU";
+"loan_online_2_money_amount" = "SỐ TIỀN";
+"loan_online_3_title_1" = "TÀI SẢN\nHIỆN CÓ";
+"loan_online_3_title_2" = "TÌNH HÌNH\nKHOẢN VAY";
+"loan_online_3_add_more_preasure" = "Thêm tài sản";
+"loan_online_3_remove_preasure" = "Bỏ tài sản";
+"loan_online_3_sum_amount_treasure" = "TỔNG GIÁ TRỊ TÀI SẢN HIỆN CÓ";
+"loan_online_3_relation_with_scb" = "QUAN HỆ TÍN DỤNG VỚI NGÂN HÀNG SCB";
+"loan_online_3_yes" = "Có";
+"loan_online_3_no" = "Không";
+"loan_online_3_over_borrow" = "Nợ quá hạn";
+"loan_online_3_add_more_rent" = "Thêm khoản vay";
+"loan_online_3_remove_rent" = "Bỏ khoản vay";
+"loan_online_3_relation_with_other_company" = "QUAN HỆ TÍN DỤNG VỚI TỔ CHỨC TÍN DỤNG KHÁC";
+"loan_online_3_banking" = "NGÂN HÀNG";
+"loan_online_3_relation" = "MỐI QUAN HỆ";
+"loan_online_3_personRenter" = "NGƯỜI CHO VAY";
+"loan_online_3_rent_other" = "VAY CÁ NHÂN/TỔ CHỨC KHÁC";
+"loan_online_3_treasure_type" = "LOẠI TÀI SẢN";
+"loan_online_3_amount" = "SỐ LƯỢNG";
+"loan_online_3_value" = "GIÁ TRỊ";
+"loan_online_3_sheet_code" = "MÃ HỢP ĐỒNG";
+"loan_online_3_money_rent" = "SỐ TIỀN VAY";
+"loan_online_3_money_left" = "SỐ TIỀN CÒN LẠI";
+"loan_online_3_rent_time" = "THỜI GIAN VAY";
+"loan_online_3_year" = "Năm";
+"loan_online_4_title_1" = "NHU CẦU\nVAY VỐN";
+"loan_online_4_title_2" = "TÀI SẢN BẢO\nĐẢM TIỀN VAY";
+"loan_online_4_sum_need_money" = "TỔNG NHU CẦU VỐN";
+"loan_online_4_sum_self_money" = "VỐN TỰ CÓ";
+"loan_online_4_money_decide_rent" = "SỐ TIỀN ĐỀ NGHỊ VAY";
+"loan_online_4_deadline_rent" = "THỜI HẠN VAY VỐN";
+"loan_online_4_type_house" = "LOẠI HÌNH NHÀ/ĐẤT";
+"loan_online_4_acreage" = "DIỆN TÍCH MẶT BẰNG";
+"loan_online_4_city" = "TỈNH/THÀNH PHỐ";
+"loan_online_4_district" = "QUẬN/HUYỆN";
+"loan_online_4_village" = "PHƯỜNG/XÃ";
+"loan_online_4_address" = "ĐỊA CHỈ";
+"loan_online_4_sure_treasure" = "TÀI SẢN BẢO ĐẢM:";
+"loan_online_4_role_use_house" = "Quyền sở hữu nhà ở/ Quyền sử dụng đất";
+"loan_online_4_add_more_rent_treasure" = "Thêm tài sản vay";
+"loan_online_4_remove_rent_treasure" = "Bỏ tài sản vay";
+"loan_online_4_sure_treasure_other" = "TÀI SẢN BẢO ĐẢM KHÁC:";
+"loan_online_4_device" = "Ô tô/ Phương tiện/ Máy móc thiết bị";
+"loan_online_4_another" = "Khác";
+"loan_online_4_type_image" = "LOẠI HÌNH";
+"loan_online_4_certificate" = "GIẤY CHỨNG NHẬN";
+"loan_online_4_owner" = "CHỦ SỞ HỮU";
+"loan_online_4_regist_paper" = "GIẤY ĐĂNG KÝ";
+"loan_online_4_vehicle_company" = "NHÃN HIỆU XE";
+"loan_online_4_year_reduce" = "NĂM SẢN XUẤT";
+"loan_online_4_special_point" = "ĐẶC ĐIỂM";
+"loan_online_5_title_1" = "THÔNG TIN\nVAY VỐN";
+"loan_online_5_title_2" = "THU NHẬP &\nTÀI SẢN HIỆN CÓ";
+"loan_online_5_sheet_rent" = "HỒ SƠ VAY";
+"loan_online_5_sheet_rent_code" = "MÃ SỐ HỒ SƠ VAY";
+"loan_online_5_rent_person" = "NGƯỜI VAY";
+"loan_online_5_phone" = "ĐIỆN THOẠI";
+"loan_online_5_address" = "ĐỊA CHỈ";
+"loan_online_5_sale_way" = "CHÍNH SÁCH BÁN HÀNG";
+"loan_online_5_type_sale_way" = "LOẠI CHÍNH SÁCH BÁN HÀNG";
+"loan_online_5_money_first" = "TIỀN CỌC (vnd)";
+"loan_online_5_time_pay" = "SỐ LẦN TRẢ";
+"loan_online_5_sum_money" = "TỔNG TIỀN (vnd)";
+"loan_online_5_rent_way" = "CHÍNH SÁCH VAY";
+"loan_online_5_rent_wayment" = "PHƯƠNG THỨC VAY";
+"loan_online_5_rent_money_amount" = "SỐ TIỀN VAY (vnd)";
+"loan_online_5_rent_time" = "THỜI GIAN VAY (năm)";
+"loan_online_5_sum_pay_back" = "TỔNG TIỀN TRẢ (vnd)";
+"loan_online_5_income" = "THU NHẬP";
+"loan_online_5_salary_month" = "LƯƠNG THÁNG (vnd)";
+"loan_online_5_sub_salary_other" = "THU NHẬP PHỤ Ở NGOÀI BUÔN BÁN (vnd)";
+"loan_online_5_treasure_value" = "GIÁ TRỊ TÀI SẢN";
+"loan_online_5_place_place" = "ĐẤT NÔNG NGHIỆP (vnd)";
+"loan_online_5_place_floor" = "NỀN NHÀ THỔ CƯ (vnd)";
+"loan_online_5_motobike" = "XE MÁY (năm)";
+"loan_online_5_source_save_money" = "QUỸ TIẾT KIỆT (vnd)";
+"loan_online_5_now_money" = "TỔNG SỐ TIỀN HIỆN CÓ (vnd)";
+"loan_online_5_vay_tha_noi" = "Vay thả nổi";
+"loan_online_5_vay_tra_gop_deu" = "Vay trả góp đều";
+"loan_online_5_vay_du_no_ban_dau" = "Vay dư nợ ban đầu";
+
+// MARK: PROJECT INTRODUCTION
+"project_introduction_project_scale" = "Quy mô dự án";
+"project_introduction_river_way" = "Đường sông";
+"project_introduction_education_medical" = "Giáo dục & y tế";
+"project_introduction_topic_park" = "Công viên chủ đề";
+"project_introduction_water_surface_area" = "Diện tích mặt nước";
+"project_introduction_common_utility" = "Tiện ích chung";
+
+// MARK: CHAT
+"chat_placeholder" = "Nhập tin nhắn";
+"chat_pleaseWait" = "Kính chào quý khách, xin Quý khách vui lòng đợi trong giây lát để được chuyên viên tư vấn hỗ trợ";
+
+// MARK: CONTACT
+"contact_title" = "Liên hệ";
+
+// MARK: LIBRARY
+"library_image" = "HÌNH ẢNH";
+"library_title" = "Thư viện";
+
+// MARK: SALE
+"sale_title" = "Bán hàng";
+"sale_intro" = "Bạn có thể lựa chọn các dự án của chúng tôi phù hợp với từng yêu cầu của chính mình. Các căn hộ, biệt thự thông minh có rất nhiều hạn mục khác nhau";
+
+// MARK: LOGIN
+"login_welcome" = "Chào mừng bạn !";
+"login_system" = "Đăng nhập vào hệ thống Minerva";
+"login_username" = "Tên đăng nhập (*)";
+"login_input_username" = "Nhập tên đăng nhập";
+"login_password" = "Mật khẩu (*)";
+"login_input_password" = "Nhập mật khẩu";
+"login_remember" = "Ghi nhớ đăng nhập";
+"login_signin" = "Đăng nhập";
+"login_forgot_password" = "Quên mật khẩu?";
+"login_member" = "Chưa là thành viên?";
+"login_signup_now" = "Đăng ký ngay!";
+"login_wrong" = "Tên truy cập hoặc mật khẩu không đúng.";
+"login_close" = "Đóng";
+"login_please" = "Hãy";
+"login_please_input_mail" = "nhập email";
+"login_please_input_mail_system" = "của bạn để hệ thống có \nthể hỗ trợ lấy lại mật khẩu";
+"login_send" = "Gửi";
+"login_email_send" = "EMAIL ĐÃ ĐƯỢC GỬI";
+"login_email_check" = "Đường link để lấy lại mật khẩu đã được gửi vào email của bạn. Xin vui lòng kiểm tra email và thiết lập lại mật khẩu";
+
+// MARK: SIGN UP
+"signup_holder_user" = "Họ tên (*)";
+"signup_holder_pass" = "Mật khẩu (*)";
+"signup_holder_repass" = "Nhập lại mật khẩu (*)";
+"signup_holder_phone" = "Số điện thoại (*)";
+"signup_warning_user" = "Nhập tên đăng nhập";
+"signup_warning_pass" = "Nhập mật khẩu";
+"signup_warning_repass" = "Nhập lại mật khẩu";
+"signup_warning_email" = "Nhập email";
+"signup_warning_phone" = "Nhập số điện thoại";
+"signup_checkWrong_user" = "Tên đăng nhập đã được đăng ký";
+"signup_checkWrong_pass" = "Mật khẩu không trùng nhau";
+"signup_checkWrong_email" = "Email không hợp lệ";
+"signup_checkWrong_phone" = "Số điện thoại không hợp lệ";
+"signup_title_regist" = "Đăng ký thành viên";
+"signup_welcome_minerva" = "Chào mừng bạn vào hệ thống Minerva";
+"signup_signup" = "Đăng ký";
+"signup_email_send_confirm" = "EMAIL XÁC NHẬN ĐÃ ĐƯỢC GỬI";
+"signup_email_send_descripe" = "Đường link xác nhận đăng ký tài khoản đã được gửi tới email của bạn. Vui lòng kiểm tra email và hoàn tất đăng ký tài khoản.";
+"signup_success" = "Đăng ký thành công";
+"signup_full_complete" = "Bạn đã hoàn tất quy trình đăng ký tài khoản";
+"signup_start" = "Bắt đầu";
+"signup_warning_email_exist" = "Email đã tồn tại";
+
+// MARK: MONTHS
+"text_january" = "Một";
+"text_february" = "Hai";
+"text_march" = "Ba";
+"text_april" = "Bốn";
+"text_may" = "Năm";
+"text_june" = "Sáu";
+"text_july" = "Bảy";
+"text_august" = "Tám";
+"text_september" = "Chín";
+"text_october" = "Mười";
+"text_november" = "Mười Một";
+"text_december" = "Mười Hai";
+
+// MARK: CALENDAR
+"text_day" = "Ngày";
+"text_month" = "Tháng";
+"text_year" = "Năm";
+
+// MARK: PARTICIPATED PROJECT
+"parti_sumAmount" = "Tổng tiền";
+"parti_area" = "Khu";
+"parti_group" = "Khối";
+"parti_cost" = "Giá tiền";
+"parti_late" = "Trễ hẹn";
+"parti_onTime" = "Đúng hẹn";
+"parti_stop" = "Dừng";
+"parti_payFirstTimes" = "Cọc lần";
+"parti_paymentTimes" = "Thanh toán lần";
+"parti_paytime" = "đợt thanh toán";
+"parti_alreadyPay" = "Tiền đã trả";
+"parti_chooseProject" = "Chọn dự án";
+"parti_paytimeUp" = "Đợt thanh toán";
+"parti_moneyCost" = "Số tiền (đ)";
+"parti_timetimes" = "đợt";
+"parti_product" = "Sản phẩm";
+"parti_sale_way" = "Chính sách bán hàng";
+"parti_idSheet" = "Mã hồ sơ";
+"parti_moneyFirstCost" = "Tiền cọc (đ)";
+"parti_moneyRent" = "Tiền vay (đ)";
+"parti_type" = "Loại";
+"parti_countPayBack" = "Số đợt trả";
+"parti_timeRent" = "Thời gian vay";
+"parti_locationSale" = "Đơn vị bán";
+"parti_sumPayCost" = "Tổng tiền (đ)";
+"parti_sumPayBackCost" = "Tồng tiền trả (đ)";
+"parti_watchPayProcess" = "Xem tiến độ thanh toán";
+"parti_moneyLeft" = "Tiền còn lại";
+"parti_payFinish" = "Bạn đã hoàn tất thanh toán";
+"parti_tienCoc" = "Tiền cọc";
+"parti_statusUnk" = "Trạng thái";
+"parti_thanhToanDot" = "Thanh toán đợt";
+
+// MARK: RESPONSE
+"response_maCau" = "Mã câu";
+"response_addMoreComment" = "Nhập thêm nội dung";
+"response_discuss" = "Thảo luận";
+"response_myself" = "Tôi";
+"response_reply" = "Trả lời";
+"response_addQuestion" = "Đặt câu hỏi";
+"response_topicName" = "Tiêu đề";
+"response_topicContent" = "NỘI DUNG";
+"response_writeContent" = "Nhập thông tin muốn hỏi …";
+"response_files" = "TẬP TIN";
+"repsonse_choose" = "Chọn";
+"response_time" = "Thời gian";

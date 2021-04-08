@@ -1,0 +1,28 @@
+use_frameworks!
+
+target 'SuperApp' do
+
+pod 'Mapbox-iOS-SDK', '~> 5.2'
+pod 'AeroGearOTP'
+pod 'KeychainSwift', '~> 16.0'
+pod 'RxSwift', '~> 5'
+pod 'RxCocoa', '~> 5'
+pod 'ObjectMapper','~> 3.5.0'
+pod 'SwiftyJSON', '~> 4.0'
+pod 'MBProgressHUD', '~> 1.1.0'
+pod 'SDWebImageSwiftUI'
+pod 'Alamofire', '4.9.1'
+pod 'Firebase/Core'
+pod 'Firebase/Messaging'
+pod 'RMQClient', '~> 0.10.0'
+pod 'MessageKit'
+pod 'SkeletonUI'
+# add the Firebase pod for Google Analytics
+#pod 'Firebase/Analytics'
+#pod 'Firebase/Auth'
+#pod 'Firebase/Firestore'
+# add pods for any other desired Firebase products
+# https://firebase.google.com/docs/ios/setup#available-pods
+
+end
+
